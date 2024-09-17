@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: a7c2ba9363250d24186f79e38a6f6f56
+  productGUID: e7010cfa630a01a4195e17a0c36c0a38
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: GameObjectsAndTransformLab
+  productName: scripting3_lab
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -677,14 +677,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: GameObjectsAndTransformLab
+  metroPackageName: scripting3_lab
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: GameObjectsAndTransformLab
+  metroApplicationDescription: scripting3_lab
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -754,10 +754,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: dbce56e8-a272-4343-9b41-488b300dc7a6
+  cloudProjectId: 5b67c9b7-2003-42a0-ad69-c9169bad333c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: GameObjectsAndTransformLab
+  projectName: scripting3_lab
   organizationId: nazerbnz
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

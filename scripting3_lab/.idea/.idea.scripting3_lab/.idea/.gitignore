@@ -2,9 +2,9 @@
 /shelf/
 /workspace.xml
 # Rider ignored files
-/modules.xml
-/.idea.GameObjectsAndTransformLab.iml
 /projectSettingsUpdater.xml
+/.idea.scripting3_lab.iml
+/modules.xml
 /contentModel.xml
 # Editor-based HTTP Client requests
 /httpRequests/
