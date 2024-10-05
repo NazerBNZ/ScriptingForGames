@@ -683,9 +683,9 @@ GameObject:
   m_Component:
   - component: {fileID: 773757540}
   - component: {fileID: 773757543}
+  - component: {fileID: 773757545}
   - component: {fileID: 773757541}
   - component: {fileID: 773757544}
-  - component: {fileID: 773757545}
   m_Layer: 7
   m_Name: CharacterArt
   m_TagString: characters
