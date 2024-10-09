@@ -16,7 +16,7 @@ TagManager:
   - UI
   - Ground
   - Character
-  - Object
+  - 
   - 
   - 
   - 
@@ -50,6 +50,12 @@ TagManager:
   - name: Ground
     uniqueID: 3283295411
     locked: 0
+  - name: Object
+    uniqueID: 917256693
+    locked: 0
   - name: Character
     uniqueID: 1649939757
+    locked: 0
+  - name: Foreground
+    uniqueID: 1746452405
     locked: 0
