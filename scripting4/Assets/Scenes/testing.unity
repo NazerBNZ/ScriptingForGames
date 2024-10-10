@@ -1597,12 +1597,32 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5209915847265388096, guid: 9ad406a7246584c44ae3b4f967ad6851, type: 3}
+      propertyPath: triggerEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5209915847265388096, guid: 9ad406a7246584c44ae3b4f967ad6851, type: 3}
       propertyPath: triggerEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 102900000, guid: 04d5c6ab2c80a0049a258594f321bde4, type: 3}
+      objectReference: {fileID: 773757545}
     - target: {fileID: 5209915847265388096, guid: 9ad406a7246584c44ae3b4f967ad6851, type: 3}
       propertyPath: triggerEvent.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5209915847265388096, guid: 9ad406a7246584c44ae3b4f967ad6851, type: 3}
+      propertyPath: triggerEvent.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SetTrigger
+      objectReference: {fileID: 0}
+    - target: {fileID: 5209915847265388096, guid: 9ad406a7246584c44ae3b4f967ad6851, type: 3}
+      propertyPath: triggerEvent.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: UnityEngine.Animator, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 5209915847265388096, guid: 9ad406a7246584c44ae3b4f967ad6851, type: 3}
+      propertyPath: triggerEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: Hit
+      objectReference: {fileID: 0}
+    - target: {fileID: 5209915847265388096, guid: 9ad406a7246584c44ae3b4f967ad6851, type: 3}
+      propertyPath: triggerEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 5382891390600860762, guid: 9ad406a7246584c44ae3b4f967ad6851, type: 3}
       propertyPath: m_Name
