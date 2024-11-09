@@ -15,5 +15,6 @@ public class SoundTrigger : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         audioSource.Play();
+        Debug.Log("I dun touch");
     }
 }

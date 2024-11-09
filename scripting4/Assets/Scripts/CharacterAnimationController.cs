@@ -38,12 +38,6 @@ public class CharacterAnimationController : MonoBehaviour
             animator.SetTrigger("DoubleJump");
         }
         
-        // hit
-        if (Input.GetButtonDown("Fire1"))
-        {
-            animator.SetTrigger("Hit");
-        }
-        
         // fall
         if (Input.GetKeyDown(KeyCode.F))
         {
