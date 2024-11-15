@@ -6,17 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="ddfc4048-7f24-4863-9d8b-072a1cde635c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.scripting4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.scripting4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Cherries_0.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Cherries_0.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/cherryIdle.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/cherryIdle.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Cherry.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Cherry.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/Idle (32x32)_0.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Idle (32x32)_0.controller" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/testing.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/testing.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scriptable Objects/HealthData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scriptable Objects/HealthData.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scriptable Objects/ScoreData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scriptable Objects/ScoreData.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scriptable Objects/StaminaData.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scriptable Objects/StaminaData.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CharacterAnimationController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CharacterAnimationController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SimpleTextMeshProBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SimpleTextMeshProBehaviour.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SoundTrigger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SoundTrigger.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SimpleCharacterController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SimpleCharacterController.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +120,11 @@
       <workItem from="1730926165140" duration="1387000" />
       <workItem from="1730935536563" duration="2961000" />
       <workItem from="1731119103241" duration="198000" />
-      <workItem from="1731119349798" duration="1774000" />
+      <workItem from="1731119349798" duration="2322000" />
+      <workItem from="1731196588638" duration="418000" />
+      <workItem from="1731197195151" duration="632000" />
+      <workItem from="1731525613842" duration="1923000" />
+      <workItem from="1731629431980" duration="2183000" />
     </task>
     <servers />
   </component>

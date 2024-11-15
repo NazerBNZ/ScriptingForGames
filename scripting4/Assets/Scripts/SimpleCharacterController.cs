@@ -21,8 +21,8 @@ public class SimpleCharacterController : MonoBehaviour
     private void Update()
     {
         //MoveCharacter();
-        ApplyGravity();
         KeepCharacterOnXAxis();
+        ApplyGravity();
         MoveCharacter();
         
     }
