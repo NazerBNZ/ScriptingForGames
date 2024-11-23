@@ -8,9 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.scripting4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.scripting4/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Animation/Idle (32x32)_0.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Idle (32x32)_0.controller" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/testing.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/testing.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scriptable Objects/HealthData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scriptable Objects/HealthData.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scriptable Objects/ScoreData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scriptable Objects/ScoreData.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SimpleCharacterController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SimpleCharacterController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TriggerParticleEffect.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TriggerParticleEffect.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +123,16 @@
       <workItem from="1731197195151" duration="632000" />
       <workItem from="1731525613842" duration="1923000" />
       <workItem from="1731629431980" duration="2183000" />
+      <workItem from="1731633587345" duration="363000" />
+      <workItem from="1732144788842" duration="135000" />
+      <workItem from="1732144957039" duration="300000" />
+      <workItem from="1732145315853" duration="67000" />
+      <workItem from="1732145414940" duration="116000" />
+      <workItem from="1732145703419" duration="2000" />
+      <workItem from="1732163300263" duration="126000" />
+      <workItem from="1732163482286" duration="28000" />
+      <workItem from="1732163618397" duration="705000" />
+      <workItem from="1732252592363" duration="43000" />
     </task>
     <servers />
   </component>
@@ -133,7 +141,6 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityProjectDiscoverer">
-    <option name="hasUnityReference" value="true" />
     <option name="unityProject" value="true" />
     <option name="unityProjectFolder" value="true" />
   </component>
