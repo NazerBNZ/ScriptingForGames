@@ -14,7 +14,7 @@ public class SimpleIDMatchBehaviour : MonoBehaviour
 
       if (otherID.id == id)
       {
-         Debug.Log("Matched ID: " + id); 
+         //Debug.Log("Matched ID: " + id); 
          matchEvent.Invoke();
       }
       else

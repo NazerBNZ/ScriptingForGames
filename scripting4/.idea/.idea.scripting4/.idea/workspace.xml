@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ddfc4048-7f24-4863-9d8b-072a1cde635c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.scripting4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.scripting4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Idle (32x32)_0.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Idle (32x32)_0.controller" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/testing.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/testing.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TriggerParticleEffect.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TriggerParticleEffect.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SimpleIDMatchBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SimpleIDMatchBehaviour.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,6 +132,7 @@
       <workItem from="1732163482286" duration="28000" />
       <workItem from="1732163618397" duration="705000" />
       <workItem from="1732252592363" duration="43000" />
+      <workItem from="1732327981407" duration="253000" />
     </task>
     <servers />
   </component>
@@ -141,6 +141,7 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
     <option name="unityProject" value="true" />
     <option name="unityProjectFolder" value="true" />
   </component>
